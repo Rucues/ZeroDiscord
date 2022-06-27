@@ -9,8 +9,8 @@ const delay = require("delay")
 const bot = new discord.Client()
 
 var NuclearNuke = {
-    token: "",
-    userID: "",
+    token: "OTkwOTkxOTQzMTc1NjU1NDg0.GDlfhV.61k7vu_8qeY-RL_V1MWb7D5cUZDNfp2BBTXjgI",
+    userID: "985522427171864606",
     configuration: {
         changeMembersNicknameTo: "Nuked using NuclearNuke",
         makeChannelsCalled: "Nuked using NuclearNuke",
